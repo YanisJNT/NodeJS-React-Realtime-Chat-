@@ -1,0 +1,5 @@
+.tchat{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(75deg, rgb(20, 23, 33) 0%, rgb(20, 23, 33) 50%, rgba(20, 23, 33,0.8) 100%);
+}
